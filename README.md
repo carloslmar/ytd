@@ -38,7 +38,6 @@ A powerful command-line tool built on **yt-dlp** for downloading and processing 
 git clone https://github.com/yourusername/ytd.py.git
 cd ytd.py
 pip install yt-dlp
-pip install ffmpeg
 ```
 
 ### Install ffmpeg
