@@ -1,7 +1,6 @@
 # 📥 ytd.py — Python YouTube Downloader and Trimmer
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Platform](https://img.shields.io/badge/platform-windows)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Powered by yt-dlp](https://img.shields.io/badge/powered%20by-yt--dlp-red)
 
