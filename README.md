@@ -161,7 +161,8 @@ python ytd.py <url> --cookies cookies.txt
 
 You can export cookies using browser extensions like:
 
-* [cookies.txt (by Lennon Hill)](https://cookies-txt.en.softonic.com/firefox/extension)
+* [cookies.txt (by Lennon Hill)](https://cookies-txt.en.softonic.com/firefox/extension) - Firefox
+* [Get cookies.txt LOCALLY (by kairi003)](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc?pli=1) - Chrome
 
 ---
 
